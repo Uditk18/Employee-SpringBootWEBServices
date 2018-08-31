@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: EmployeeRestWebView
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ukarwasr
+Implementation-Vendor-Id: com.cg
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/EmployeeRestWebView
+Created-By: Maven Integration for Eclipse
+
